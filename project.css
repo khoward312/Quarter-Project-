@@ -1,0 +1,59 @@
+html {
+    background: url(https://cdn.wallpapersafari.com/55/10/WtebTE.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+nav {
+  width:500px;
+  margin: 0 auto;
+  text-align: center;
+  list-style: none;
+}
+h1 {
+    color:black;
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
+h2 {
+  color:blue;
+  text-align: center;
+}
+h3 {
+  color:blue;
+  text-align: center;
+}
+h4 {
+  color:black;
+  width:500px;
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+footer li {
+  bottom: 10px;
+  display: inline;
+  position:relative;
+  color: white;
+  font-weight: 300;
+  font-family: Helvetica;
+  font-size: 30px;
+  padding-left: 25px;
+  text-decoration: none;
+
+}
+
+i{
+  color: white;
+}
+
+i:hover {
+color: blue;
+}
